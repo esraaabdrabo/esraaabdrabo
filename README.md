@@ -13,9 +13,7 @@
 
 
 <p align="center"><a href="https://linkedin.com/in/esraa-abdrabo-71563421a/" target="blank"><img
-            src="https://img.icons8.com/color/35/000000/linkedin.png" /></a>
-
-    <a href="mailto:esraaabdrabo23@gmail.com" target="blank"><img
+            src="https://img.icons8.com/color/35/000000/linkedin.png" /></a> <a href="mailto:esraaabdrabo23@gmail.com" target="blank"><img
             src="https://img.icons8.com/color/35/000000/gmail.png" /></a>
 </p>
 <h2 align="center"> 💻 Languages and Tools</h2>
