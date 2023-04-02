@@ -7,7 +7,7 @@
     Egypt.
 </h5>
 
-<h5 align="center" style="font-size: 1.25rem;"> I’m currently working as Mobile Application developer</h5>
+<h5 align="center" style="font-size: 1.25rem;"> I’m currently working as Mobile Application developer in Sindion Technology Ltd</h5>
 <h5 align="center" style="font-size: 1.25rem;"> 🌱 I’m currently learning ... Backend with NodeJs</h5>
 <h2 align="center">📫 How to reach me </h2>
 
