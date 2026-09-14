@@ -73,3 +73,8 @@ Using AI tools such as Claude throughout the development workflow for technical 
 </p>
 
 ---
+<h3 align="left">GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HebaAbdElhamed"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HebaAbdElhamed"/>
+</p>
