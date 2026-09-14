@@ -73,15 +73,17 @@ Using AI tools such as Claude throughout the development workflow for technical 
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=esraaabdrabo&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=esraaabdrabo&theme=highcontrast&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraaabdrabo&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" />
-
-</div>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=esraaabdrabo&show_icons=true&theme=dracula&hide_border=true"
+    alt="Esraa's GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraaabdrabo&layout=compact&theme=dracula&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
